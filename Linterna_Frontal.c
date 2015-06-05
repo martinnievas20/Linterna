@@ -1,5 +1,5 @@
 #include <12f675.h>
-
+//Compilado con ccs y MPLAB
 #FUSES NOWDT, INTRC_IO, NOCPD, NOPROTECT, NOMCLR, NOPUT, NOBROWNOUT, BANDGAP_HIGH
 #use delay(clock=4000000)
 
